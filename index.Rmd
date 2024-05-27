@@ -66,22 +66,20 @@ library(xaringanExtra)
 Esto **ES** un error: 
 &nbsp;
 
-![](C:/Users/Usuario/Documents/GitHub/gcba_evaluacion_pol_educativas/Clase 1/clase1/img/viz10.PNG)
+![](img/viz10.PNG)
 
 --
 
 Esto **NO ES** un error (y podemos seguir bien): 
-![](C:/Users/Usuario/Documents/GitHub/gcba_evaluacion_pol_educativas/Clase 1/clase1/img/viz11.PNG)
+![](img/viz11.PNG)
 
 ---
+
 class: middle
 
 ## ¿Qué hacemos si aparece un error?
 
-&nbsp;
-
 .pull-left[
-
 1. Divide y conquistarás
 &nbsp;
 
@@ -95,12 +93,12 @@ class: middle
 &nbsp;
 
 5. Regla de los 15 minutos
-
 ]
 
-.pull.right[
+.pull-right[
 
-![](C:/Users/Usuario/Documents/GitHub/gcba_evaluacion_pol_educativas/Clase 1/clase1/img/papa_francisco.PNG)
+![](img/papa_francisco.PNG)
+
 ]
 
 ---
@@ -253,7 +251,7 @@ Por ejemplo:
 ?sqrt
 ```
 
-![](C:/Users/Usuario/Documents/GitHub/gcba_evaluacion_pol_educativas/Clase 1/clase1/questions_in_R.PNG.PNG)
+![](img/questions_in_R.PNG)
 
 
 ---

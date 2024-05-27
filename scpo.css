@@ -326,3 +326,7 @@ ru-blockquote {
 #custom-slide .pull-right {
   width: 35%; /* Ajusta este valor según tus necesidades */
 }
+
+.imagen-pequena {
+  width: 10%; /* Ajusta este valor según necesites */
+}
